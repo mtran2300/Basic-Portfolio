@@ -27,12 +27,15 @@ header {
 }
 
 #portfolio{
-	float: right;	
+	float: right;
+	padding: 25px;	
 }
 
 #contact{	
 	float:right;
+	padding: 25px;
 }
+
 h1{
 	padding: 24px;
 	margin:0px;
