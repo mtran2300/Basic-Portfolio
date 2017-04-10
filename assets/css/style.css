@@ -1,0 +1,81 @@
+* {
+	box-sizing: border-box;
+}
+
+.container{	
+	width:960px;
+	margin: 0 auto;
+}
+
+body{
+	margin: 0px;
+	color:#777777;
+	font-size: 18px;
+	background-image: url(file:///C:/Users/mtran2300/Basic-Portfolio/assets/images/backgroundimage.jpg);
+	font-family: "Arial", "Helvetica", "sans-serif"
+	line-height: 150%
+}
+
+header {
+	background: #4aaaa5; 
+	width:27%;
+}
+
+#about{
+	float: right;
+	    padding: 25px
+}
+
+#portfolio{
+	float: right;	
+}
+
+#contact{	
+	float:right;
+}
+h1{
+	padding: 24px;
+	margin:0px;
+	border: 5px;
+	color: #eee;
+	text-align: left;
+	width:100%;
+}
+
+
+
+#main-bio{
+	float: left;
+	background: white;
+	width:75%;
+	padding: 35px;
+    padding-top: 0PX;
+}
+
+h3{
+	color: #4aaaa5
+}
+
+hr{	    
+	color: lightgray;
+    height: 5px;
+    background-color: lightgray;	
+}
+
+#connect-info{
+	float:right;
+	width: 22%;
+	background: white;
+	padding: 26px;
+	padding-top: 9px
+}
+
+h3{
+	color: #4aaaa5
+}
+#profile-image{
+	float: left;
+	margin-right: 20px;
+
+}
+
