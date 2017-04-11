@@ -11,7 +11,7 @@ body{
 	margin: 0px;
 	color:#777777;
 	font-size: 18px;
-	background-image: url(file:///C:/Users/mtran2300/Basic-Portfolio/assets/images/backgroundimage.jpg);
+	background-image: url("../images/backgroundimage.jpg");
 	font-family: "Arial", "Helvetica", "sans-serif"
 	line-height: 150%
 }
